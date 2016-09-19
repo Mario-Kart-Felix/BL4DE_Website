@@ -1,0 +1,5 @@
+name|Early Platournament 7.7.16
+date|July 7th @ 6 PM Est.
+mapandstuff|Mines|Encounter|3|5|15
+teamlink|http://bit.ly/29aFYfK
+wotscoutlink|...

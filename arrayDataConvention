@@ -1,0 +1,36 @@
+/*
+File: arrayDataConvention.txt
+@author: Brandon Bires-Navel (brn5915@rit.edu)
+
+Showing the layout of a 2D array that stores pertinent information regarding a tournament.
+The actual data that will be stored in a file/database will be serialized by the included
+PHP function serialize(), and therefore will need to be unserialize using the unserialize()
+function in PHP.
+*/
+
+name (string)
+date (array)
+    0 date 1 (string)
+    1 date 2 (string)
+    2...
+mapName (array)
+    0 map name
+    1 game mode
+numOfPlayers (int as string)
+tier (int as string)
+tierLimit (int as string)
+teamLink (string)
+wotScoutLink (string)
+
+Example:
+
+$data = array(
+    'name'=>$_GET['name'],
+    'date'=>getDates(),
+    'mapName'=>fixMapName(),
+    'numOfPlayers'=>$_GET['numOfPlayers'],
+    'tier'=>$_GET['tier'],
+    'tierLimit'=>$_GET['tierLimit'],
+    'teamLink'=>$_GET['teamLink'],
+    'wotScoutLink'=>$_GET['wotScoutLink']
+);

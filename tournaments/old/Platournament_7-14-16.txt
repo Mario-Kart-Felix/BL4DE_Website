@@ -1,0 +1,5 @@
+name|Platournament 7.14.16
+date|July 14th @ 9PM Est.
+mapandstuff|Siegfried_Line|Encounter|3|8|24
+teamlink|http://bit.ly/29yajp9
+wotscoutlink|...

@@ -1,0 +1,5 @@
+name|Platournament 7.26.16
+date|July 26th @ 9 PM Est.
+mapandstuff|Lakeville|Encounter|3|7|21
+teamlink|http://bit.ly/2adCf4O
+wotscoutlink|...

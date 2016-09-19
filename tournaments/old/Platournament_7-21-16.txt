@@ -1,0 +1,5 @@
+name|Platournament 7.21.16
+date|July 21st @ 9PM Est.
+mapandstuff|Prokhorovka|Encounter|3|6|18
+teamlink|http://bit.ly/29UJHDe
+wotscoutlink|...

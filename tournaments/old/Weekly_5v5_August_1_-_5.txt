@@ -1,0 +1,5 @@
+name|Weekly 5v5 August 1 - 5
+date|August 1st - 5th @ 9:00 PM Est.|El Halluf Encounter|Lakeville Encounter
+mapandstuff|Winterberg|Encounter|5|8|38
+teamlink|http://bit.ly/2a9nfXD
+wotscoutlink|...

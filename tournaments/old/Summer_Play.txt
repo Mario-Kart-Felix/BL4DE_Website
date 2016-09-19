@@ -1,0 +1,5 @@
+name|Summer Play
+date|Group Stages (3 Days):|July 18 @ 9 PM Est.|July 20 @ 9 PM Est.|July 22 @ 9 PM Est.|Playoffs:|July 24 @ 6:30 PM Est.|July 24 @ 9 PM Est.|July 25 @ 9 PM Est.|July 27 @ 9 PM Est.|July 29 @ 9 PM Est.
+mapandstuff|Steppes|Encounter|5|6|28
+teamlink|http://bit.ly/29fcNt7
+wotscoutlink|...

@@ -1,0 +1,5 @@
+name|Platournament 8.11.16
+date|August 11th @ 9 PM Est.
+mapandstuff|Fiery_Salient|Encounter|3|6|17*
+teamlink|http://bit.ly/2asa9DT
+wotscoutlink|...

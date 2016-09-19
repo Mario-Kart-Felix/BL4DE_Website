@@ -1,0 +1,5 @@
+name|Weekly 5v5
+date|Jul 11 - 15 @ 9 PM Est.
+mapandstuff|Murovanka|Encounter|5|5|25
+teamlink|http://bit.ly/29zCC8d
+wotscoutlink|...

@@ -1,0 +1,5 @@
+name|Weekly 5v5 August 8 - 12
+date|August 8th - 12th @ 9PM Est.
+mapandstuff|Ensk|Encounter|5|4|20
+teamlink|http://bit.ly/2aL5uvY
+wotscoutlink|...

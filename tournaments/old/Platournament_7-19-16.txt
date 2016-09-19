@@ -1,0 +1,5 @@
+name|Platournament 7.19.16
+date|July 19th @ 9PM Est.
+mapandstuff|Ruinberg|Encounter|3|6|18
+teamlink|http://bit.ly/29UJDDK
+wotscoutlink|...

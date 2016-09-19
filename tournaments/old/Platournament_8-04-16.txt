@@ -1,0 +1,5 @@
+name|Platournament 8.04.16
+date|August 4th @ 9 PM Est.
+mapandstuff|Winter_Himmelsdorf|Encounter|3|4|12
+teamlink|http://bit.ly/2a5AAKC
+wotscoutlink|...

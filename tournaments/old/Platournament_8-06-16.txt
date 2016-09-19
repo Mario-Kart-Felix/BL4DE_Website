@@ -1,0 +1,5 @@
+name|Platournament 8.06.16
+date|August 6th @ 9 PM Est.
+mapandstuff|Mittengard|Standard|3|4|12
+teamlink|http://bit.ly/2arcFbj
+wotscoutlink|...

@@ -1,0 +1,5 @@
+name|Platournament 7.28.16
+date|July 28th @ 9 PM Est
+mapandstuff|Widepark|Standard|3|7|21
+teamlink|http://bit.ly/2af7eik
+wotscoutlink|...

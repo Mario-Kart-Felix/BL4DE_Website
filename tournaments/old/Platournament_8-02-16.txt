@@ -1,0 +1,5 @@
+name|Platournament 8.02.16
+date|August 2nd @ 9 PM Est.
+mapandstuff|Steppes|Encounter|3|4|12
+teamlink|http://bit.ly/2ahWopW
+wotscoutlink|...
