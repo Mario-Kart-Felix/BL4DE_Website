@@ -1,4 +1,10 @@
 <?php
+/**
+ * File: head.php
+ * @author: Brandon Bires-Navel (brn5915@rit.edu)
+ * Description: Adds various links to libraries sets up some default
+ * stuff as well as the favicon. This is added to every page.
+ */
 
 echo '<meta charset="UTF-8">'."\n";
 echo '<meta http-equiv="X-UA-Compatible" content="IE=edge">'."\n";
@@ -10,5 +16,4 @@ echo '<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.
 echo '<link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js">'."\n";
 echo '<script src="/js/jquery-3.0.0.min.js"></script>'."\n";
 echo '<link href="/css/style.css" rel="stylesheet">'."\n";
-
 ?>

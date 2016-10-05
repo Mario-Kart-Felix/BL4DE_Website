@@ -25,7 +25,7 @@
                         <li><strike>Map names with two words are not functional</strike></li>
                         <li><strike>Don't delete the tournament pages, move them to 'Old' dir</strike></li>
                         <li><strike>Long tournament names hang over on the next line. Either make the menu bar wider or have the indentation fixed</strike></li>
-                        <li>Sort the tournaments by the date they are played not alphabetically</li>
+                        <li>Sort the tournaments by the date they are played, not alphabetically</li>
                         <li><strike>Rel Icon on specific tournaments is not routing properly</strike></li>
                     </ul>
                     <h1 class="text-primary">To Future:</h1>
