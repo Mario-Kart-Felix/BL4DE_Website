@@ -8,5 +8,5 @@ upcoming tournaments, showing a picture of the map we would play on, the number 
 Additionally, the website would have sections dedicated to giving information about the BL4DE clan, including 
 a description of their weekly activities as well as some of the history behind the clan.
 
-Note: Currently not activively developing this anymore as I have stopped playing the game. Therefore the only 
+Note: Currently not actively developing this anymore as I have stopped playing the game. Therefore the only 
 reason to continue is for the knowledge I would gain.
