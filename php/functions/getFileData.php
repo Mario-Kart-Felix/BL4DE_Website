@@ -1,10 +1,15 @@
 <?php
-/*
+/**
  * File: getFileData.php
  * @author: Brandon Bires-Navel (brn5915@rit.edu)
  */
+
+// Tests --
+
 getFileData('Weekly_5v5_August_8_-_12.txt', 'C:\Users\brand\Dropbox\College\Programming\Websites\BL4DE\tournaments');
-/*
+
+// -- Tests
+/**
  * getFileData takes the name of a file and stores the data from the
  * file as variables to be used in editing the file. The information
  * is displayed on html forms. When done the new information is written
@@ -49,5 +54,4 @@ function getFileData($file, $path){
         }
     }
 }
-
 ?>

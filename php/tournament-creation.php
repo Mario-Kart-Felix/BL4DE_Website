@@ -1,4 +1,9 @@
 <?php
+/**
+ * File: tournament-creation.php
+ * @author: Brandon Bires-Navel (brn5915@rit.edu)
+ */
+
 $fileName = str_replace(" ", "_", $_GET['name']);
 $fileName = str_replace(".", "-", $fileName);
 $fileName = str_replace(":", "_", $fileName);

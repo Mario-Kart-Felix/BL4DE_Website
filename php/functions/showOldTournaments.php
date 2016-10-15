@@ -1,4 +1,16 @@
 <?php
+/**
+ * File: showOldTournaments.php
+ * @author: Brandon Bires-Navel (brn5915@rit.edu)
+ */
+
+//This doesn't really work yet...
+
+/**
+ * What this is going to do is iterate through the list of tournaments that are
+ * completed and will display them as a means to see a record of previous
+ * tournaments played.
+ */
 $path = 'C:\Users\MOUTH Box\Dropbox\College\Programming\Websites\BL4DE\tournaments\old';
 $files = array_diff(scandir($path), array('.', '..', 'old'));
 foreach ($files as $file){

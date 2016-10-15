@@ -1,10 +1,10 @@
 <?php
-/*
+/**
  * File: generateTournament.php
  * @author: Brandon Bires-Navel (brn5915@rit.edu)
  */
 
-/*
+/**
  * generateTournament creates an html div element that contains all pertaining information related to a
  * given tournament listing
  * @param file - name of the text file with the information

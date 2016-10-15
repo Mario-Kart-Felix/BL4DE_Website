@@ -1,4 +1,9 @@
 <?php
+/**
+ * File: tournamentFieldEdit.php
+ * @author: Brandon Bires-Navel (brn5915@rit.edu)
+ */
+
 $fileName = str_replace(" ", "_", $_GET['name']);
 $fileName = str_replace(".", "-", $fileName);
 $fileName = str_replace(":", "_", $fileName);
@@ -23,6 +28,7 @@ $mapAndStuff = 'mapandstuff|'.$mapName.'|'.$mode.
     '|'.$_GET['numOfPlayers'].'|'.$_GET['tier'].'|'.$_GET['tierLimit']."\n";
 $teamLink = 'teamlink|'.$_GET['teamLink']."\n";
 $wotScoutLink = 'wotscoutlink|'.$_GET['wotScoutLink'];
+//Write to file
 fwrite($currentFile, $name);
 fwrite($currentFile, $date);
 fwrite($currentFile, $mapAndStuff);

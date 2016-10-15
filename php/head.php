@@ -6,6 +6,10 @@
  * stuff as well as the favicon. This is added to every page.
  */
 
+/**
+ * This is added to all HTML pages to easily add information that would be
+ * included in the <head> part of the document.
+ */
 echo '<meta charset="UTF-8">'."\n";
 echo '<meta http-equiv="X-UA-Compatible" content="IE=edge">'."\n";
 echo '<meta name="viewport" content="width=device-width, initial-scale=1">'."\n";

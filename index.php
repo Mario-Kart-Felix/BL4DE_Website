@@ -15,7 +15,7 @@
                     <div class="col-lg-3"></div>
                     <div class="col-lg-5">
                         <div class="text-center">
-                            <img src="images/Full%20Res.png" alt="blade_icon">
+                            <img src="images/full_res_logo.png" alt="blade_icon">
                             <blockquote class="text-muted">
                                 <p>"If you can't believe in yourself, believe in the me that believes in the you."</p>
                                 <footer>Noraboen</footer>
