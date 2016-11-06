@@ -23,7 +23,7 @@ function generateTournament($file, $path){
     $div2->appendChild($div2Attr);
     $readFile = fopen($path.'\\'.$file, 'r');
 
-    //Unserialize
+    //Un-serialize
     $data = unserialize(fgets($readFile));
     print_r($data);
 

@@ -18,7 +18,7 @@ getFileData('Weekly_5v5_August_8_-_12.txt', 'C:\Users\brand\Dropbox\College\Prog
  * @param path - path of the text file with the information
  */
 function getFileData($file, $path){
-    //Init varables that will hold data
+    //Init variables that will hold data
     $name = ''; # Name of the tournament
     $dates = ''; # Dates of the tournament
     $mapName = ''; # Map name with the gamemode
